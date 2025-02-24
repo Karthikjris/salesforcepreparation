@@ -71,16 +71,38 @@ const PdfViewer = () => {
   return (
     <div className="pdf-container" style={{ display: "flex", flexDirection: "column", height: "100vh" }}>
       {/* Header with MUI AppBar */}
-      <AppBar position="static" sx={{ background: "linear-gradient(135deg, rgb(8, 171, 237), rgb(255, 255, 255))" }}>
-        <Toolbar>
-          <IconButton edge="start" color="inherit" aria-label="menu" onClick={() => toggleSidebar(true)}>
-            <MenuIcon />
-          </IconButton>
-          <Typography variant="h6" sx={{ flexGrow: 1 }}>
-            PDF Viewer
-          </Typography>
-        </Toolbar>
-      </AppBar>
+      <AppBar
+  position="static"
+  sx={{
+    background: "linear-gradient(135deg, rgb(8, 171, 237), rgb(255, 255, 255))",
+  }}
+>
+  <Toolbar sx={{ display: "flex", justifyContent: "space-between" }}>
+    <IconButton edge="start" color="inherit" aria-label="menu" onClick={() => toggleSidebar(true)}>
+      <MenuIcon />
+    </IconButton>
+
+    {/* Centered Text */}
+    <Typography
+      variant="h6"
+      sx={{
+        position: "absolute",
+        left: "50%",
+        transform: "translateX(-50%)",
+        fontWeight: "bold",
+      }}
+    >
+      Salesforce Interview Preparation
+    </Typography>
+
+    {/* Left-aligned Text */}
+    <Typography variant="h6" sx={{ flexGrow: 1, marginLeft: 2 }}>
+      Select Top
+    </Typography>
+  </Toolbar>
+</AppBar>
+
+
 
       {/* MUI Drawer for Sidebar (Opens below the Header with Full Height) */}
       <Drawer
