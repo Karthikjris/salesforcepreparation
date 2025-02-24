@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Karthikjris/salesforcepreparation/static/css/main.1fc3e3fa.css",
-    "main.js": "/Karthikjris/salesforcepreparation/static/js/main.1b08ad4a.js",
-    "static/js/453.669444a5.chunk.js": "/Karthikjris/salesforcepreparation/static/js/453.669444a5.chunk.js",
-    "static/media/Image4.jpg": "/Karthikjris/salesforcepreparation/static/media/Image4.1956d2bbd16f50b44fd3.jpg",
-    "static/media/img4.jpg": "/Karthikjris/salesforcepreparation/static/media/img4.dbd9b5ac52741413f607.jpg",
-    "static/media/Salesforce.jpg": "/Karthikjris/salesforcepreparation/static/media/Salesforce.122448565f398922c616.jpg",
-    "static/media/salesforceimg.png": "/Karthikjris/salesforcepreparation/static/media/salesforceimg.316f92ceb2b328f57299.png",
-    "static/media/img2.jpg": "/Karthikjris/salesforcepreparation/static/media/img2.cee5b131aa1cf9e357b6.jpg",
-    "static/media/img.webp": "/Karthikjris/salesforcepreparation/static/media/img.ff51fe3a194d86e662f1.webp",
-    "static/media/rislogo.png": "/Karthikjris/salesforcepreparation/static/media/rislogo.c34920d8375c446764ab.png",
-    "index.html": "/Karthikjris/salesforcepreparation/index.html",
-    "main.1fc3e3fa.css.map": "/Karthikjris/salesforcepreparation/static/css/main.1fc3e3fa.css.map",
-    "main.1b08ad4a.js.map": "/Karthikjris/salesforcepreparation/static/js/main.1b08ad4a.js.map",
-    "453.669444a5.chunk.js.map": "/Karthikjris/salesforcepreparation/static/js/453.669444a5.chunk.js.map"
+    "main.css": "/salesforcepreparation/static/css/main.1fc3e3fa.css",
+    "main.js": "/salesforcepreparation/static/js/main.5aab6a55.js",
+    "static/js/453.669444a5.chunk.js": "/salesforcepreparation/static/js/453.669444a5.chunk.js",
+    "static/media/Image4.jpg": "/salesforcepreparation/static/media/Image4.1956d2bbd16f50b44fd3.jpg",
+    "static/media/img4.jpg": "/salesforcepreparation/static/media/img4.dbd9b5ac52741413f607.jpg",
+    "static/media/Salesforce.jpg": "/salesforcepreparation/static/media/Salesforce.122448565f398922c616.jpg",
+    "static/media/salesforceimg.png": "/salesforcepreparation/static/media/salesforceimg.316f92ceb2b328f57299.png",
+    "static/media/img2.jpg": "/salesforcepreparation/static/media/img2.cee5b131aa1cf9e357b6.jpg",
+    "static/media/img.webp": "/salesforcepreparation/static/media/img.ff51fe3a194d86e662f1.webp",
+    "static/media/rislogo.png": "/salesforcepreparation/static/media/rislogo.c34920d8375c446764ab.png",
+    "index.html": "/salesforcepreparation/index.html",
+    "main.1fc3e3fa.css.map": "/salesforcepreparation/static/css/main.1fc3e3fa.css.map",
+    "main.5aab6a55.js.map": "/salesforcepreparation/static/js/main.5aab6a55.js.map",
+    "453.669444a5.chunk.js.map": "/salesforcepreparation/static/js/453.669444a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fc3e3fa.css",
-    "static/js/main.1b08ad4a.js"
+    "static/js/main.5aab6a55.js"
   ]
 }
