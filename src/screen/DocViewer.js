@@ -33,7 +33,7 @@ const PdfViewer = () => {
     { name: "Design Pattern", file: "Design_Pattern.pdf", type: "pdf" },
     { name: "Email Templates in Salesforce", file: "Email_Templates_in_Salesforce.pdf", type: "pdf" },
     { name: "Escalation Rule", file: "Escaltion_Rule.pdf", type: "pdf" },
-    { name: "Exceptions 1", file: "Exceptions_1.xlsx", type: "excel" },
+    { name: "Salesforce Exceptions", file: "Exceptions_1.xlsx", type: "excel" },
     { name: "Integration Answers", file: "Integration_Answers.pdf", type: "pdf" },
     { name: "Integration Question With Answer", file: "Integration_Question_With_Answer.pdf", type: "pdf" },
     { name: "Multi Factor Authenticator", file: "Multi_Factor_Authenticator.pdf", type: "pdf" },
@@ -156,7 +156,7 @@ const PdfViewer = () => {
 
     {/* Left-aligned Text */}
     <Typography variant="h6" sx={{ flexGrow: 1, marginLeft: 2 }}>
-      Select Top
+      Select Topics
     </Typography>
   </Toolbar>
 </AppBar>
